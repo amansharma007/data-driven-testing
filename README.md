@@ -2,7 +2,7 @@
 
 # Data Driven Testing (using vREST Desktop) 
 
-![](./assets/main.png.png)
+![](assets/main.png)
 
 vREST provides you the ability to perform one of the most productive approach in the world of testing. Data Driven Testing is an approach, which can save you a lot of time, effort, and other resources.
 
